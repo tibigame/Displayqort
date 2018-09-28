@@ -1,0 +1,8 @@
+﻿# .gitignore
+
+bin/
+obj/
+.vs/
+
+!.gitignore
+

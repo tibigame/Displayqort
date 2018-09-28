@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayQort", "DisplayQort\DisplayQort.csproj", "{F6575475-2EAC-4280-89A3-40721F7B2613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6575475-2EAC-4280-89A3-40721F7B2613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6575475-2EAC-4280-89A3-40721F7B2613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6575475-2EAC-4280-89A3-40721F7B2613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6575475-2EAC-4280-89A3-40721F7B2613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B725BB1B-10B4-42B4-80BB-054EF68DBC06}
+	EndGlobalSection
+EndGlobal
